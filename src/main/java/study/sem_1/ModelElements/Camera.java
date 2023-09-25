@@ -8,6 +8,11 @@ import study.sem_1.Stuff.Point3D;
 // Класс камеры
 public class Camera {
 	
+	public Camera(List<Point3D> location, List<Angle3D> angle) {
+		this.location = location;
+		this.angle = angle;
+	}
+
 	public List<Point3D> location;
 	public List<Angle3D> angle;
 	
@@ -20,6 +25,7 @@ public class Camera {
 	public void move(Point3D point) {
 		//TODO moving logic
 	}
+	
 
 }
 

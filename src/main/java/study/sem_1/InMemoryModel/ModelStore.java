@@ -19,7 +19,12 @@ public class ModelStore {
 	
 	// Поиск сцены по id
 	public Scene getScene(Integer id) {
-		return null; //TODO getting logic
+		for (Scene scene : scenes) {
+			if (scene.id == id) {
+				return scene;
+			}
+		}
+		return null;
 	}
 	
 	
@@ -35,9 +40,9 @@ public class ModelStore {
 		this.cameras = new ArrayList<>();
 		this.changeObservers = changeObservers;
 		this.models.add(new PoligonalModel(null));
-		this.scenes.add(new Scene());
-		this.flashes.add(new Flash());
-		this.cameras.add(new Camera());
+		this.scenes.add(new Scene(models, flashes, cameras));
+		this.flashes.add(new Flash(null, null, null, null));
+		this.cameras.add(new Camera(null, null));
 	}
 	
 }
