@@ -1,1 +1,1 @@
-<img src="https://sun9-52.userapi.com/impg/OQ-wXue345bo395lqPVlCxkQff9bECdsA6V-3g/WZd0YYEvuWY.jpg?size=774x553&quality=96&sign=7690f965e758e8a2b97b42cd38f1bd91&type=album" alt="UML диаграмма">
+<img src="https://sun9-74.userapi.com/impg/jot5qSCOsPx-pGX-SJhf5HfiZS1tncegzwa7BQ/QSTrb-8V8wg.jpg?size=772x546&quality=96&sign=3f4932e6908a8494ceb54cb6d04e5932&type=album" alt="UML диаграмма">
