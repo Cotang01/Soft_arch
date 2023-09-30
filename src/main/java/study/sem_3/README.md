@@ -5,14 +5,14 @@
 ## 1) Rewrite code to satisfy: Single Responsibility Principle
 ### -> extra/first_extra
 
-## 2) Переписать код SpeedCalculation в соответствии с Open-Closed Principle
+## 2) Rewrite code to satisfy: Open-Closed Principle
 ### -> extra/second_extra
 
-## 3) Переписать код в соответствии с Interface Segregation Principle
+## 3) Rewrite code to satisfy: Interface Segregation Principle
 ### -> extra/third_extra
 
-## 4) Переписать код в соответствии с Liskov Substitution Principle
+## 4) Rewrite code to satisfy: Liskov Substitution Principle
 ### -> extra/fourth_extra
 
-## 5) Переписать код в соответствии с Dependency Inversion Principle
+## 5) Rewrite code to satisfy: Dependency Inversion Principle
 ### -> extra/fifth_extra
