@@ -5,10 +5,10 @@ import java.awt.Color;
 import study.sem_3.enumerators.CarType;
 import study.sem_3.enumerators.FuelType;
 import study.sem_3.enumerators.GearBoxType;
-import study.sem_3.interfaces.IRefuelStation;
+import study.sem_3.interfaces.IRefilllStation;
 import study.sem_3.interfaces.IWashingStation;
 
-public class Pickup extends Car implements IRefuelStation, IWashingStation {
+public class Pickup extends Car implements IRefilllStation, IWashingStation {
 	
 	private int loadCapacity;
 	

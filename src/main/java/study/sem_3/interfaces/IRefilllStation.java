@@ -1,6 +1,6 @@
 package study.sem_3.interfaces;
 
-public interface IRefuelStation {
+public interface IRefilllStation {
 	
 	public void refill();
 	
