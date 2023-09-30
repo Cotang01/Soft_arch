@@ -65,8 +65,8 @@ public class Main {
 			} else if (temp == 64) {
 				item_generators.get(7).openReward(); // gem
 			}
+			
 		}
-		
 		
 	}
 
