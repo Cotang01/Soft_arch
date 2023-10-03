@@ -1,0 +1,1 @@
+<img src="https://sun3-24.userapi.com/impg/UgJe1m7GnSAYUdrm1ATAU-etlfWKJf1mkKpdHA/eIV0a7i_tFw.jpg?size=1732x1297&quality=96&sign=5a645fd3c65044a531b4a092b08815f8&type=album" alt="uml_for_sem4">
