@@ -1,5 +1,5 @@
 # Main task
-<img src="https://sun9-74.userapi.com/impg/jot5qSCOsPx-pGX-SJhf5HfiZS1tncegzwa7BQ/QSTrb-8V8wg.jpg?size=772x546&quality=96&sign=3f4932e6908a8494ceb54cb6d04e5932&type=album" alt="uml_for_sem3">
+<img src="https://sun9-57.userapi.com/impg/x2WQQRqnAsSt0KJh4pJcEQjPIh6T48gQXFTRHQ/k-Hc0ip03RI.jpg?size=764x545&quality=96&sign=18094323c7365c4e13465b37cd26cc44&type=album" alt="uml_for_sem3">
 
 # Extra tasks
 ## 1) Rewrite code to satisfy: Single Responsibility Principle
