@@ -23,7 +23,7 @@ public class BankAccount {
                 " }";
     }
 
-	public long getCard() {
+	public int getCard() {
 		return this.card;
 	}
 
