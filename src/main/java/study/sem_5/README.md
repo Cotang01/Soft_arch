@@ -1,1 +1,1 @@
-<img src="https://sun9-34.userapi.com/impg/9mThzIN-x_50Cvj9tOQ03f4mvQF-qFiIFwm1xA/prVsEsPvPcU.jpg?size=1963x1542&quality=96&sign=0ce377b89a4817b03ebcff427c285a6b&type=album" alt="uml_for_sem5">
+<img src="https://sun9-67.userapi.com/impg/4u7HiHLDLXP9T9FAJupJYK7GGOa1VRKPf-DmTQ/PSjFVHsh7Zs.jpg?size=1962x1541&quality=96&sign=cb93766162219ecb34e10ff3af3205a5&type=album" alt="uml_for_sem5">
