@@ -8,3 +8,18 @@
 
 ## Homework 3:
 ### Convert code to UML diagramm (+ extra 5 small tasks)
+
+## Homework 4:
+### Add code based on UML and make whole UML diagram for ticket buying application
+
+## Homework 5:
+### Make UML diagram of Marketplace application
+
+## Homework 6:
+### Make ERD and Use Case diagrams of hospital's work automatization application
+
+## Homework 7:
+### Make ERD, UI/UX and UML diagrams of Wholesale marketplace application
+
+## Homework 8:
+### Make ERD, UI/UX and UML diagrams of Table reservasion application
