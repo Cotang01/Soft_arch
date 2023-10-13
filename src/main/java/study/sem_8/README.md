@@ -1,6 +1,6 @@
 # UI/UX diagram for HW8
 
-<img src="https://sun9-12.userapi.com/impg/rWAZrXdCyfCyE3AleUzYDESQ3vJYPiWMDMoniQ/d4ISO-xRphk.jpg?size=2560x1468&quality=96&sign=0bde10ce5cbcfef687cc65cf72c8f91e&type=album" alt="uiux_for_hw8">
+<img src="https://sun9-64.userapi.com/impg/ed1q1fbTTBaaeyWkb7EUyzxBYcb17faJHc__Pg/2n1z7hgD9Gc.jpg?size=2560x1289&quality=96&sign=3cb31f0d6c49c2cc2b2ef584d4d452ca&type=album" alt="uiux_for_hw8">
 
 # ERD diagram for HW8
 
