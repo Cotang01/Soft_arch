@@ -23,3 +23,15 @@
 
 ## Homework 8:
 ### Make ERD, UI/UX and UML diagrams of Table reservasion application
+
+## Homework 9:
+### Make UX/UI, ERD and OpenAPI for server hosting application
+
+## Homework 10:
+### Make UX/UI and Use Case for robot managing application
+
+## Homework 11:
+### Make UML, ERD and OpenAPI for robot managing application
+
+## Homework 12:
+### Make tests for robot managing application
